@@ -33,15 +33,16 @@ p {
   color: #BDC2CB;
 }
 
-.card-char {
+.card-character {
   width: 100%;
   max-width: 38.4rem;
+  
   .image {
     position: relative;
     display: flex;
     justify-content: center;
     width: 100%;
-    height: 52rem;
+    height: 450px;
     overflow: hidden;
     margin-bottom: 2.4rem;
     img {
